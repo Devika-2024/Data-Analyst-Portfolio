@@ -9,4 +9,6 @@ Hi! I'm Devika Kolla. I am an aspiring Data Analyst, focused on transforming raw
 **Data Visualization: ** Power BI
 **Version Control:** GitHub
 
+## My Power BI Dashboard
+(dashboard_preview.png)
 
