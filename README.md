@@ -1,4 +1,4 @@
-# Data-Analyst-Portfolio
+# Data-Analyst-Portfolio : Financial Performance Analysis.
 
 ## About Me
 Hi! I'm Devika Kolla. I am an aspiring Data Analyst, focused on transforming raw data into actionable business insights through SQL, Python, and visualization tools.
