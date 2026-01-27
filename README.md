@@ -23,3 +23,8 @@ To ensure data integrity, I developed a Python pipeline using **Pandas**:
 **Automated Cleaning:** Removed duplicate entries and handled missing values using mean iputation.
 **Logic:**Built functions to filterhigh value user segments for targeted marketing analysis.
 
+## Data Cleaning and Automation(Python)
+To ensure data integrity, I developed a Python pipeline using **Pandas**:
+**Automated Cleaning:** Removed duplicate entries and handled missing values using mean iputation.
+**Logic:**Built functions to filterhigh value user segments for targeted marketing analysis.
+
