@@ -18,4 +18,8 @@ Based on my analysis of the global financialdata:
 ** Top Profit Drivers: ** ** France ** and ** Germany ** are the most profitable markets.
 ** Product Strategy : **while **Paseo ** is a top performer, products like **VTT** show negativ margins in specific regions, indicating an area for cost optimization.
 
+## Data Cleaning and Automation(Python)
+To ensure data integrity, I developed a Python pipeline using **Pandas**:
+**Automated Cleaning:** Removed duplicate entries and handled missing values using mean iputation.
+**Logic:**Built functions to filterhigh value user segments for targeted marketing analysis.
 
